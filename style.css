@@ -1,0 +1,15 @@
+#navbar {
+  width: 100%;
+  height: 72px;
+  background: white;
+  justify-content: space-around;
+}
+#navbarr {
+  width: 100%;
+  height: 72px;
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  list-style: none;
+}
