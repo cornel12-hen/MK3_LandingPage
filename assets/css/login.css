@@ -37,7 +37,7 @@ label {
   font-size: 14px;
   color: #666;
   margin-bottom: 6px;
-  display: block;
+  display: flex;
   align-self: flex-start;
 }
 
